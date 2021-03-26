@@ -1,9 +1,8 @@
 # **Certs In Progress**
-### MCSA 2016
-* **[70-740](https://github.com/mfcorey/Hive/blob/master/70-740.md)**
-* 70-741
-* 70-742
+### AZ-500
+
 # **Interested In**
-### AZ-103
+### AZ-500
 ### CCNA
 # **Achieved**
+* AZ-104
