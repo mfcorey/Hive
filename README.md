@@ -1,6 +1,6 @@
 # **Certs In Progress**
 ### AZ-500
-### Comptia A+
+### HCC - Help Desk Certificate
 
 # **Interested In**
 ### AZ-500
