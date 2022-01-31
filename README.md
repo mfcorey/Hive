@@ -1,6 +1,7 @@
 # **Certs In Progress**
-### AZ-500
+
 ### HCC - Help Desk Certificate
+### AZ-500
 
 # **Interested In**
 ### AZ-500
